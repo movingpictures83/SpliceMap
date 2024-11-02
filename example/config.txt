@@ -1,0 +1,2 @@
+Prefix plugins/SpliceMap/example/
+Plugin SpliceMap inputfile run.cfg outputfile none
